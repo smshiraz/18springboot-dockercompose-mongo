@@ -1,0 +1,3 @@
+com\syed\springbootdockercomposemongo\model\Book.class
+com\syed\springbootdockercomposemongo\Application.class
+com\syed\springbootdockercomposemongo\dao\BookRepository.class
